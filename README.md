@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning new technologies on my homelab built with old computers and going through freeCodeCamps curriculum.
 - ❤️ I like programming, homelab stuff, simracing, and Seinfeld.
-- 📫 How to reach me: https://www.gomez.ga
+- 📫 How to reach me: https://www.iamgomez.com
 
 <h2 align="center"> Tools and Languages</h2>
 <p align="center">
